@@ -1,6 +1,6 @@
 # aarch64-cortex_a53-linux-gnueabi
 
-UBER 6.4.1 - Build 1.42.20170812
+UBER 6.4.1 - Build 1.43.20170813
 
 
 Built with crosstool-ng-1.23.0-146-gbcaec4d
@@ -13,7 +13,7 @@ URL: https://github.com/crosstool-ng/crosstool-ng.git
 - autoconf-2.69
 - automake-1.15
 - libtool-2.4.6
-- linux-4.12.6
+- linux-4.12.7
 - gmp-6.1.2
 - mpfr-3.1.5
 - isl-0.18
@@ -28,6 +28,7 @@ URL: https://github.com/crosstool-ng/crosstool-ng.git
 
 ## Changelog
 
+- 1.43.20170813: Updated Linux
 - 1.42.20170812: Updated Crosstool-NG, Linux and UBER
 - 1.41.20170804: Updated Linux and UBER
 - 1.40.20170716: Reworked config file. Updated crosstool-ng, Linux and UBER.
