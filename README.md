@@ -1,9 +1,9 @@
 # aarch64-cortex_a53-linux-gnueabi
 
-GCC 6.4.0 - Build 1.30.20170716
+GCC 6.4.0 - Build 1.40.20170824
 
 
-Built with crosstool-ng-1.23.0-138-gc609be1
+Built with crosstool-ng-1.23.0-166-g434c205
 
 URL: https://github.com/crosstool-ng/crosstool-ng.git
 
@@ -11,9 +11,9 @@ URL: https://github.com/crosstool-ng/crosstool-ng.git
 
 - m4-1.4.18
 - autoconf-2.69
-- automake-1.15
+- automake-1.15.1
 - libtool-2.4.6
-- linux-4.12.2
+- linux-4.12.8
 - gmp-6.1.2
 - mpfr-3.1.5
 - isl-0.18
@@ -24,10 +24,10 @@ URL: https://github.com/crosstool-ng/crosstool-ng.git
 - binutils-2.28
 - gcc-6.4.0
 - glibc-2.25
-- gdb-8.0
 
 ## Changelog
 
+- 1.40.20170824: Reworked config file, Updated crosstool-ng and Linux
 - 1.30.20170716: Reworked config file. Updated crosstool-ng, Linux, and GCC.
 - 1.20.20170703: Updated Linux to 4.12
 - 1.15.20170627: Updated CrosTool-NG, and fixed config script error for GDB
